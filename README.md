@@ -4,6 +4,9 @@ The project has since expanded and I have also started sharing the project. It h
 keep expanding to make a re-install quicker and easier but also try to add tools for fixing your install. And when I run into a handy registry hack or
 fix I add it too. 
 
-Thank you for your interest. If you would like to support me you can provide me with comments and requests and if you really feel like doing a big thing you can buy me a coffee.
+Thank you for your interest. If you would like to support me you can provide me with comments and requests and if you feel like doing a big thing you can buy me a coffee.
 
 Enjoy the Toolbox.
+
+Disclaimer: With using Jim's Toolbox you accept that I am not responsible for any harm to your system. This includes blowing up your computer, Deleting system files, and Corrupting your HDD or SDD. This program is as it is.
+There is no guarantee. There is a reason why I add the notion that a program or function can be dangerous.
