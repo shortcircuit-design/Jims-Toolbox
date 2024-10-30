@@ -10,3 +10,5 @@ Enjoy the Toolbox.
 
 Disclaimer: With using Jim's Toolbox you accept that I am not responsible for any harm to your system. This includes blowing up your computer, Deleting system files, and Corrupting your HDD or SDD. This program is as it is.
 There is no guarantee. There is a reason why I add the notion that a program or function can be dangerous.
+
+Important : My website www.shortcircuit-design.xyz is offline and I can not reply to mails at the moment!
