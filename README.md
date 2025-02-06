@@ -12,3 +12,4 @@ Disclaimer: With using Jim's Toolbox you accept that I am not responsible for an
 There is no guarantee. There is a reason why I add the notion that a program or function can be dangerous.
 
 Important: I check the program with Totalvirus before uploading and it is always reported clean! Some anti-virus programs can give a false positive due to the elevated Admin rights
+ATTENTION: Jim's Toolbox V6.1 ıs being flagged by Defender with a False Posıtıve as they have blacklisted the Windows Activation script! So don't worry about it. I might remove the script with the next version
